@@ -1,2 +1,2 @@
 # MonsterWoW
-BugTracker
+MonsterWoW BugTracker
