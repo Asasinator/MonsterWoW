@@ -1,1 +1,2 @@
 # MonsterWoW
+BugTracker
